@@ -1,0 +1,5 @@
+pandas
+seaborn
+matplotlib
+streamlit
+plotly==5.24.1
